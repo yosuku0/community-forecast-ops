@@ -1,0 +1,20 @@
+# 認証情報・秘密情報（絶対にコミットしない）
+.env
+
+# 実データ（ポートフォリオには含めない）
+Signal_Intake_Log.csv
+baseline_stats.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+.pytest_cache/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+*.swp

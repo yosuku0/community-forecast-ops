@@ -1,0 +1,4 @@
+Signal ID,Captured Date,Captured By,Source Platform,Source Detail,Signal Type,Topic / Target,Summary,Evidence Link,Actor Role,Intensity,Spread,Confidence,Needs Translation,Translation Priority,Status
+SIG-SMPL-001,2026-03-17 10:15:00,twitch_monitor,Twitch,channel_id,Observation,Viewer Count,High viewer count spike detected (250% above baseline).,https://twitch.tv/clip/sample1,Viewer,High,Medium,High,Yes,High,New
+SIG-SMPL-002,2026-03-17 11:20:00,twitch_monitor,Twitch,channel_id,Observation,Clip Creation,Rapid clip creation detected (5 clips in 2 minutes).,https://twitch.tv/clip/sample2,Viewer,High,Low,High,Yes,Medium,New
+SIG-SMPL-003,2026-03-17 12:05:00,twitch_monitor,Twitch,channel_id,Complaint,Chat Sentiment,Sentiment drop detected in chat (negative keyword density increased).,https://twitch.tv/clip/sample3,Core Player,Medium,High,Medium,Yes,High,New
